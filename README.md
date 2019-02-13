@@ -1,3 +1,5 @@
+<img src="https://community.cloud.databricks.com/login/databricks_logoTM_rgb_TM.svg" width="400" />
+
 # Databricks Examples
 This repository contains a collection of notebooks demonstrating various features in Azure Databricks.
 
