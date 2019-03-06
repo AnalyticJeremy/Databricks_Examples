@@ -8,3 +8,6 @@ distribute processing of pandas dataframes across a cluster
 
 **Plotting Distributions**: a notebook demonstrating how to plot the distribution of all numeric columns in
 a Spark dataframe using `matplotlib`
+
+**NYC Taxi Data**: a pair of notebooks for downloading the [NYC Taxi](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+datasets as CSV files and converting those CSV files to a single Parquet dataset
