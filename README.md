@@ -10,6 +10,10 @@ dataframes across a cluster
 **[Plotting Distributions](https://analyticjeremy.github.io/Databricks_Examples/Plotting%20Distributions.html)**:
 a notebook demonstrating how to plot the distribution of all numeric columns in a Spark dataframe using `matplotlib`
 
+**[Write to a Single CSV File](https://analyticjeremy.github.io/Databricks_Examples/Write%20to%20a%20Single%20CSV%20File)**:
+if you have a small dataset in Spark, you can write the data into a single CSV file (instead of Spark's default behavior of
+writing to multiple files)
+
 **NYC Taxi Data**: a pair of notebooks for downloading the [NYC Taxi](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 datasets as CSV files and converting those CSV files to a single Parquet dataset
 
