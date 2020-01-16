@@ -19,3 +19,6 @@ datasets as CSV files and converting those CSV files to a single Parquet dataset
 
 - [Notebook 1: Download CSV Files](https://analyticjeremy.github.io/Databricks_Examples/NYC%20Taxi%20Data/01%20Download%20CSV%20Files.html)
 - [Notebook 2: Convert CSV to Parquet](https://analyticjeremy.github.io/Databricks_Examples/NYC%20Taxi%20Data/02%20Convert%20CSV%20to%20Parquet.html)
+
+**[Custom Delimiter](https://analyticjeremy.github.io/Databricks_Examples/Custom%20Delimiter.html)**: a brief example showing how you
+can use Spark to read data from a flat file if it uses a non-standard delmitier
