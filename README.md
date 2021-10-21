@@ -22,3 +22,5 @@ datasets as CSV files and converting those CSV files to a single Parquet dataset
 
 **[Custom Delimiter](https://analyticjeremy.github.io/Databricks_Examples/Custom%20Delimiter.html)**: a brief example showing how you
 can use Spark to read data from a flat file if it uses a non-standard delmitier
+
+**[Stream to Kafka](Stream%20to%20Kafka.ipynb)**: an example of how you can use Spark Streaming to send data to Azure Event Hubs using the Kafka API
