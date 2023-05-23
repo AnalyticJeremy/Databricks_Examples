@@ -10,7 +10,7 @@ dataframes across a cluster
 **[Plotting Distributions](Plotting%20Distributions.ipynb)**:
 a notebook demonstrating how to plot the distribution of all numeric columns in a Spark dataframe using `matplotlib`
 
-**[Write to a Single CSV File](Write%20to%20a%20Single%20CSV%20File)**:
+**[Write to a Single CSV File](Write%20to%20a%20Single%20CSV%20File.ipynb)**:
 if you have a small dataset in Spark, you can write the data into a single CSV file (instead of Spark's default behavior of
 writing to multiple files)
 
